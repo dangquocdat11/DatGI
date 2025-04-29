@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+
 
 
 shared.LoaderTitle = "Đạt QĐ roblox";
